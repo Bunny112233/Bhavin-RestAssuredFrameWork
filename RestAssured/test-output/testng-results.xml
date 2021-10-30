@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16485" started-at="2021-10-30T12:02:07Z" finished-at="2021-10-30T12:02:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16485" started-at="2021-10-30T12:02:07Z" finished-at="2021-10-30T12:02:23Z">
+      <class name="AuthAndParameter.Oauth2">
+        <test-method status="PASS" signature="auth2auth()[pri:0, instance:AuthAndParameter.Oauth2@6adede5]" name="auth2auth" duration-ms="16440" started-at="2021-10-30T17:32:07Z" finished-at="2021-10-30T17:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- auth2auth -->
+      </class> <!-- AuthAndParameter.Oauth2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
